@@ -3,8 +3,11 @@ A tool which converts PDF Invoice to Electronic Invoice using Image Processing.
 
 ### Tools and technologies used:
 * Tessaract API`(for Optical Character Recognition)`
-* Django `(for Server)`
-* ReactJS `(for User Interaction)`
+* Python
+* Python REgex engine
+* ImageMagick
+* XlsxWriter
+* Pytessaract (Python wrapper for tessaract)
 ### Using the product:
 * Open the website
 * Select the file to upload `(Selected file must be PDF file)`
