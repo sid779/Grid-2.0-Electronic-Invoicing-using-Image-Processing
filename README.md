@@ -9,20 +9,27 @@ A tool which converts PDF Invoice to Electronic Invoice using Image Processing.
 * XlsxWriter
 * Pytessaract `(Python wrapper for tessaract)`
 ### Requirements:
-
+* Python 3.6+
+* pip
+* ImageMagick
+* All pip based requirements in `requirement.txt`
 ### Installation:
-
+* Install python 3.6+
+* Install pip
+* Install Imagemagick
+* Install `requirements.txt` using pip.
 ### Using the product:
 * clone the project in a local directory.
 * open the local cloned directory.
 * Use command line.
-* Run command ` python final.py "full filename.pdf path" ` .
+* Run command ` python final.py "full filename.pdf PATH" ` .
 * Output will be shown in a excel file named `filename.xlsx` .
 * The output excel file will be in the same local cloned directory .
 ### further improvements
 * Improving the Accuracy upto 100%.
 * Finding and removing the errors.
-* Building a complete working project.
+* Integrating user interface.
+
 ### OCR
 Optical Character Recognition (OCR) is the conversion of images of typed, handwritten or printed text into machine-encoded text, whether from a scanned document, a photo of a document, a photo from a scene (billboards in a landscape photo) or from a text superimposed on an image (subtitles on a television broadcast).
 ### Tessaract OCR
