@@ -8,12 +8,17 @@ A tool which converts PDF Invoice to Electronic Invoice using Image Processing.
 * ImageMagick
 * XlsxWriter
 * Pytessaract (Python wrapper for tessaract)
+### Requirements:
+
+### Installation:
+
 ### Using the product:
-* Open the website
-* Select the file to upload `(Selected file must be PDF file)`
-* Click Upload
-* The file will be uploaded to the servers and after complex processing the spreadsheet file will be generated.
-* Then the server will return the file to your system which can be downloaded.
+* clone the project in a local directory.
+* open the local cloned directory.
+* Use command line.
+* Run command < python final.py "full filename.pdf path" >.
+* Output will be shown in a excel file named filename.xlsx .
+* The output excel file will be in the same local cloned directory .
 ### further improvements
 * Improving the Accuracy upto 100%.
 * Finding and removing the errors.
