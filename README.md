@@ -19,8 +19,8 @@ A tool which converts PDF Invoice to Electronic Invoice using Image Processing.
 * Install Imagemagick
 * Install `requirements.txt` using pip.
 ### Using the product:
-* clone the project in a local directory.
-* open the local cloned directory.
+* Clone the project in a local directory.
+* Open the local cloned directory.
 * Use command line.
 * Run command ` python final.py "full filename.pdf PATH" ` .
 * Output will be shown in a excel file named `filename.xlsx` .
@@ -58,7 +58,7 @@ One of the basic and thoroughly-implemented features of ImageMagick is its abili
 <br/>
 We have used Imagemagick to convert the PDF to image file.
 
-### Team
+### Team - Pehli_baar
 * Mohd Sadiq
 * Vikram Chaurasia
 * Srajan Gupta
